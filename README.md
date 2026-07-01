@@ -22,17 +22,9 @@ Este proyecto consiste en un simulador básico de helicóptero desarrollado en *
 * C#
 * Unity Visual Scripting
 
-## Cómo ejecutar el proyecto
+## Itch.io
 
-1. Clonar o descargar este repositorio.
-2. Abrir el proyecto con una versión compatible de Unity.
-3. Ejecutar la escena principal desde el Editor de Unity.
-
-## Estructura del proyecto
-
-* **Assets/**: Recursos del juego, scripts, escenas y materiales.
-* **Packages/**: Paquetes utilizados por Unity.
-* **ProjectSettings/**: Configuración del proyecto.
+https://vale-molina.itch.io/helicopter-takeoff-simulator
 
 ## Autora
 
